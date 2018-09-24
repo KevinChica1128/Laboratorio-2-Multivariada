@@ -20,14 +20,15 @@ barplot(PCA.results$eig[,2])#grafico del porcentaje explicado
 X11()
 plot(PCA.results)#grafico de los individuos dos primeras dimenciones
 #2)Circulo de correlaciones
-plotellipses(PCA.results)
+x11()
+plot(PCA.results,choix="var")
 #3) representacion simultanea
 library(factoextra)
 x11()
 fviz_pca_biplot(PCA.results)
-#4)contribuciones y concenos cuadrados
-PCA.results$var$cos2#cocenos cuadrados
-PCA.results$var$contrib#contribuciones
+#4)contribuciones y cosenos cuadrados
+PCA.results$var$cos2 #cosenos cuadrados
+PCA.results$var$contrib #contribuciones
 #f) Descriptivas
 summary(provincias)
 X11()

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.23)  17 SEP 2018 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.23)  24 SEP 2018 17:07
 entering extended mode
-**"./Laboratorio 1.tex"
-("Laboratorio 1.tex"
+**"./Laboratorio 2.tex"
+("Laboratorio 2.tex"
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (revcoles.cls
@@ -316,27 +316,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks31
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("Laboratorio 1.aux"
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-
-
-LaTeX Warning: Label `figura1' multiply defined.
-
-
-LaTeX Warning: Label `figura1' multiply defined.
-
-
-LaTeX Warning: Label `figura1' multiply defined.
-
-
-LaTeX Warning: Label `figura1' multiply defined.
-
-
-LaTeX Warning: Label `figura1' multiply defined.
-
-)
-\openout1 = `"Laboratorio 1.aux"'.
+No file "Laboratorio 2".aux.
+\openout1 = `"Laboratorio 2.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
@@ -461,119 +442,72 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 LaTeX Warning: Characters dropped after `\end{comment}' on input line 131.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 168.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 140.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 168.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 140.
 
-{C:/Users/KEVINSTEVEN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [
-3]
-Overfull \hbox (10.5458pt too wide) detected at line 279
-[] \OMS/cmsy/m/n/10  []
- []
-
-
-Overfull \hbox (62.21263pt too wide) detected at line 322
-[] \OMS/cmsy/m/n/10  []
- []
-
-[4] <FigurasUV/G4.pdf, id=29, 1027.84pt x 545.03625pt>
-File: FigurasUV/G4.pdf Graphic file (type pdf)
- <use FigurasUV/G4.pdf>
-Package pdftex.def Info: FigurasUV/G4.pdf used on input line 390.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (83.91412pt too wide) in paragraph at lines 390--391
- [][] 
- []
-
-[5] <FigurasUV/G5.pdf, id=33, 1027.84pt x 545.03625pt>
-File: FigurasUV/G5.pdf Graphic file (type pdf)
- <use FigurasUV/G5.pdf>
-Package pdftex.def Info: FigurasUV/G5.pdf used on input line 397.
-(pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
-
-Overfull \hbox (83.91412pt too wide) in paragraph at lines 397--398
- [][] 
- []
-
-[6 <./FigurasUV/G4.pdf> <./FigurasUV/G5.pdf>]
-<FigurasUV/G1.pdf, id=46, 1027.84pt x 545.03625pt>
-File: FigurasUV/G1.pdf Graphic file (type pdf)
- <use FigurasUV/G1.pdf>
-Package pdftex.def Info: FigurasUV/G1.pdf used on input line 408.
-(pdftex.def)             Requested size: 308.35437pt x 163.51213pt.
-
-<FigurasUV/G2.pdf, id=47, 1027.84pt x 545.03625pt>
-File: FigurasUV/G2.pdf Graphic file (type pdf)
- <use FigurasUV/G2.pdf>
-Package pdftex.def Info: FigurasUV/G2.pdf used on input line 416.
-(pdftex.def)             Requested size: 308.35437pt x 163.51213pt.
-
-<FigurasUV/G3.pdf, id=48, 1027.84pt x 545.03625pt>
-File: FigurasUV/G3.pdf Graphic file (type pdf)
- <use FigurasUV/G3.pdf>
-Package pdftex.def Info: FigurasUV/G3.pdf used on input line 424.
-(pdftex.def)             Requested size: 308.35437pt x 163.51213pt.
-
-<FigurasUV/G6.pdf, id=49, 1027.84pt x 545.03625pt>
+<FigurasUV/G6.pdf, id=1, 1027.84pt x 545.03625pt>
 File: FigurasUV/G6.pdf Graphic file (type pdf)
  <use FigurasUV/G6.pdf>
-Package pdftex.def Info: FigurasUV/G6.pdf used on input line 431.
+Package pdftex.def Info: FigurasUV/G6.pdf used on input line 160.
 (pdftex.def)             Requested size: 513.91875pt x 272.51746pt.
 
-Overfull \hbox (83.91412pt too wide) in paragraph at lines 431--432
+Overfull \hbox (83.91412pt too wide) in paragraph at lines 160--161
  [][] 
  []
 
-[7 <./FigurasUV/G1.pdf> <./FigurasUV/G2.pdf> <./FigurasUV/G3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 444--446
 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-("Laboratorio 1.bbl") [8 <./FigurasUV/G6.pdf>] ("Laboratorio 1.aux"
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+
+LaTeX Warning: Citation 'Multi' on page 1 undefined on input line 169.
+
+
+LaTeX Warning: Citation '3d' on page 1 undefined on input line 170.
+
+No file "Laboratorio 2".bbl.
+[1
+
+{C:/Users/KEVINSTEVEN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2 <./FigurasUV/G6.pdf>] ("Laboratorio 2.aux"
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
 )
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5786 strings out of 493334
- 80715 string characters out of 3139234
- 167987 words of memory out of 3000000
- 9185 multiletter control sequences out of 15000+200000
- 20261 words of font info for 59 fonts, out of 3000000 for 9000
+ 5745 strings out of 493334
+ 80062 string characters out of 3139234
+ 157841 words of memory out of 3000000
+ 9154 multiletter control sequences out of 15000+200000
+ 19575 words of font info for 58 fonts, out of 3000000 for 9000
  1145 hyphenation exceptions out of 8191
- 43i,8n,40p,1044b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,8n,40p,824b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
-pi600\ecbx1000.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc0900.pk> <C:\Users\KEVINSTEVEN\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\KE
-VINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.
+pi600\eccc0900.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\KEVINSTEVEN\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\KE
+VINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.
 pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
-dpi600\ecrm0600.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\KEVINSTEVEN\AppDa
-ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk> <C:\Users\K
-EVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440
+dpi600\ecrm1000.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk> <C:\Users\KEVINSTEVEN\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\K
+EVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900
 .pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
-\dpi600\ecrm0900.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\jknappen\ec\dpi600\ecbx0900.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Laboratorio 1.pdf" (8 pages, 187064 bytes).
+\dpi600\ecbx0900.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "Laboratorio 2.pdf" (2 pages, 107356 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
+ 294 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
