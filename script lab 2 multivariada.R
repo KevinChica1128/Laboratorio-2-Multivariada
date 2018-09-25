@@ -15,7 +15,8 @@ x11()
 PCA.results=PCA(provincias)
 PCA.results$eig[2,3]#porcentaje de varianza explicada por los dos primeros ejes
 X11()
-barplot(PCA.results$eig[,2])#grafico del porcentaje explicado
+barplot(PCA.results$eig[,2],ylim = c(0,70),xlab='Componentes',
+        main='Gráfico de barras del porcentaje de inercia explicada por cada componente',ylab = '% de varianza explicado')#grafico del porcentaje explicado
 #1)nube de individuos
 X11()
 plot(PCA.results)#grafico de los individuos dos primeras dimenciones
@@ -32,4 +33,6 @@ PCA.results$var$contrib #contribuciones
 #f) Descriptivas
 summary(provincias)
 X11()
-boxplot(provincias)
+boxplot(provincias,xlab='Variable',ylab='Presupuesto Familiar',main='Gráfico de cajas del presupuesto familiar por variable')
+#Matriz de correlaciones
+cor(provincias)
