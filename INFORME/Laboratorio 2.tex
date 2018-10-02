@@ -7,6 +7,7 @@
 % "\documentclass[english]{revcoles}" o por "\documentclass[portuguese]{revcoles}"
 % **** --------------------------------------------------------------------------------
 \documentclass[report,oneside]{revcoles}
+\usepackage[utf8]{inputenc}
 \usepackage[top=2cm,bottom=1cm]{geometry}
 \labeldocument[
 university = Universidad del Valle,
@@ -145,13 +146,13 @@ de grado.tex}) and can be used as a guideline just replacing its contents. It is
   \includegraphics[scale=0.52]{FigurasUV/desc.png}
 \end{figure}
 
-~\\En esta tabla podemos ver las estadísticas descriptivas de los presupuestos para las variables medidas a las familias muestreadas de cada provincia española. Se puede observar que en cuanto a los promedios, como es de esperarse, las familias en general, destinan o gastan mas dinero de su presupuesto en la alimentación, con un promedio de 600781 euros por familia, seguido de los gastos en vivienda, que son en promedio de 499956 euros por familia. En cambio, en lo que menos gastan las familias es en gastos sanitarios, con un promedio de 55104 euros. El gasto máximo que tuvo una familia fue en vivienda, con un gasto familiar de 864553 euros y el gasto mínimo, fue precisamente en gastos sanitarios, con un gasto familiar de solo 24476. En cuanto a la variación de los gastos familiares. Las familias tienen gastos menos variables en los gastos sanitarios, con una desviación estándar de solo 16702.17 euro, lo contrario sucede con los gastos familiares en vivienda, donde cada familia tiene gastos muy variables en este aspecto, presenta una desviación estándar de 107438 euros.
+~\\En esta tabla podemos ver las estadísticas descriptivas de los presupuestos familiares de cada provincia española para las variables medidas. Se puede observar que en cuanto a los promedios, como es de esperarse, las provincias destinan en general, mas dinero de su presupuesto en la alimentación, con un promedio de 600781 euros por provincia para las familias, seguido de los presupuestos para vivienda, que son en promedio de 499956 euros por provincia. En cambio, a lo que menos destinan dinero las provincias es en gastos sanitarios, con un promedio de 55104 euros. El presupuesto máximo que tuvo una provincia fue para gastos familiares en vivienda, con un presupuesto destinado de 864553 euros y el presupuesto mínimo, fue precisamente para gastos sanitarios, con un presupuesto de solo 24476. En cuanto a la variación de los presupuestos entre provincias. Las provincias tienen presupuestos menos variables en los gastos sanitarios, con una desviación estándar de solo 16702.17 euros, lo contrario sucede con los gastos en vivienda, donde cada provincia tiene gastos o presupuestos muy variables en este aspecto, presenta una desviación estándar de 107438 euros.
 \begin{figure}[h!]
   \centering
   \includegraphics[scale=0.45]{FigurasUV/cajas.pdf}
 \end{figure}
 
-~\\En esta gráfica podemos confirmar las interpretaciones dadas anteriormente. Se puede observar que en promedio los gastos familiares en alimentación ($X_1$) y vivienda ($X_3$) son mucho mayores que el resto. En los gastos familiares en vivienda, vemos un punto atípico muy alto, que corresponde a una familia que hizo un gasto de 864553 (fue el mayor gasto familiar de todos). Podemos observar que los gastos familiares correspondientes a $X_2$ (Vestido y calzado),$X_6$ (Transporte) y $X_8$ (Turismo y ocio) se comportan de manera parecida en su promedio y en su variabilidad, es un poco menor y menos variable los gastos familiares en vestido y calzado. Finalmente, los gastos menores corresponden a las variables $X_4$,$X_5$,$X_7$ y $X_8$, donde evidenciamos algunos puntos atípicos (no muy graves) por encima de todas, excepto $X_9$.
+~\\En esta gráfica podemos confirmar las interpretaciones dadas anteriormente. Se puede observar que en promedio los presupuestos de las provincias para los gastos familiares en alimentación ($X_1$) y vivienda ($X_3$) son mucho mayores que el resto. En los presupuestos familiares para vivienda, vemos un punto atípico muy alto, que corresponde a una provincia que tiene un presupuestos para ello de 864553 euros (fue el mayor presupuesto de todos). Podemos observar que los presupuestos para gastos familiares correspondientes a $X_2$ (Vestido y calzado),$X_6$ (Transporte) y $X_8$ (Turismo y ocio) se comportan de manera parecida en las provincias en cuanto a su promedio y a su variabilidad, es un poco menor y menos variable los presupuestos familiares en vestido y calzado. Finalmente, los menores presupuestos de las provincias corresponden a las variables $X_4$,$X_5$,$X_7$ y $X_8$, donde evidenciamos en todas estas variables (excepto $X_9$) algunos puntos atípicos (no muy graves) por encima.
 
 \item Matriz de correlaciones
 \begin{center}
@@ -274,7 +275,7 @@ $X_9$ & 0.7589916 & 0.207774432 \\
   \centering
   \includegraphics[scale=0.45]{FigurasUV/nubeind.pdf}
 \end{figure}
-~\\Sobre esta nube de individuos no se puede dar fácilmente una interpretación clara, ya que son muchos individuos. Lo que se puede evidenciar es que una gran parte de las provincias españolas están muy cercanas en cuanto a los gastos familiares en las 9 variables medidas. Hay excepciones y casos especiales de provincias donde sus gastos fueron muy alejados del resto. Posteriormente se dará una mejor interpretación en la representación simultanea.
+~\\Sobre esta nube de individuos no se puede dar fácilmente una interpretación clara, ya que son muchos individuos. Lo que se puede evidenciar es que una gran parte de las provincias españolas están muy cercanas en cuanto a los gastos o presupuestos familiares en las 9 variables medidas. Hay excepciones y casos especiales de provincias donde sus gastos fueron muy alejados del resto. Posteriormente se dará una mejor interpretación en la representación simultanea.
 
 \section{Circulo de correlaciones}
 \begin{figure}[h!]
@@ -345,7 +346,7 @@ $X_9$ & 0.7589916 \\
 $$I=0.6650990 X_1 +0.7119000 X_2 + 0.8576904 X_3 + 0.8706285 X_4 + 0.8415510 X_5+ 0.8772839 X_6 +$$
 $$0.9141612 X_7 + 0.8688766 X_8 + 0.7589916 X_9$$
 
-~\\El cuál lo podríamos denominar como indice de gastos familiares, tendríamos un indice para cada provincia, entonces lo que se esperaría, es que los que tengan un valor mas alto en este indice, son las provincias  que tienen un mayor desarrollo y sus habitantes tienen una mejor calidad de vida. Por ejemplo se espera que los indices de Madrid, Navarra y Barcelona, sean de los más altos según las interpretaciones anteriores.
+~\\El cuál lo podríamos denominar como indice de presupuestos familiares, tendríamos un indice para cada provincia, entonces lo que se esperaría, es que los que tengan un valor mas alto en este indice, son las provincias  que tienen un mayor desarrollo y sus habitantes tienen una mejor calidad de vida. Por ejemplo se espera que los indices de Madrid, Navarra y Barcelona, sean de los más altos según las interpretaciones anteriores.
 
 \section{Puntos Adicionales}
 \subsection{Relaciones de transición}
