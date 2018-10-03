@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.23)  1 OCT 2018 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.23)  2 OCT 2018 20:12
 entering extended mode
 **"./Laboratorio 2.tex"
 ("Laboratorio 2.tex"
@@ -795,84 +795,84 @@ Overfull \hbox (21.79326pt too wide) in paragraph at lines 159--184
  [] 
  []
 
-[2 <./FigurasUV/cajas.pdf>] [3]
-<FigurasUV/varianza.pdf, id=32, 1027.84pt x 545.03625pt>
+[2 <./FigurasUV/cajas.pdf>]
+<FigurasUV/varianza.pdf, id=29, 1027.84pt x 545.03625pt>
 File: FigurasUV/varianza.pdf Graphic file (type pdf)
 
 <use FigurasUV/varianza.pdf>
-Package pdftex.def Info: FigurasUV/varianza.pdf used on input line 211.
+Package pdftex.def Info: FigurasUV/varianza.pdf used on input line 209.
 (pdftex.def)             Requested size: 462.52373pt x 245.26405pt.
 
-Overfull \hbox (32.5191pt too wide) in paragraph at lines 211--212
+Overfull \hbox (32.5191pt too wide) in paragraph at lines 209--210
  [][] 
  []
 
 
-Overfull \hbox (53.70117pt too wide) in paragraph at lines 221--229
+Overfull \hbox (53.70117pt too wide) in paragraph at lines 219--227
  [] 
  []
 
-[4 <./FigurasUV/varianza.pdf>]
-<FigurasUV/nubeind.pdf, id=41, 1027.84pt x 545.03625pt>
+[3 <./FigurasUV/varianza.pdf>]
+<FigurasUV/nubeind.pdf, id=38, 1027.84pt x 545.03625pt>
 File: FigurasUV/nubeind.pdf Graphic file (type pdf)
 
 <use FigurasUV/nubeind.pdf>
-Package pdftex.def Info: FigurasUV/nubeind.pdf used on input line 276.
+Package pdftex.def Info: FigurasUV/nubeind.pdf used on input line 274.
 (pdftex.def)             Requested size: 462.52373pt x 245.26405pt.
 
-Overfull \hbox (32.5191pt too wide) in paragraph at lines 276--277
+Overfull \hbox (32.5191pt too wide) in paragraph at lines 274--275
  [][] 
  []
 
-[5 <./FigurasUV/nubeind.pdf>]
-<FigurasUV/nubevar.pdf, id=50, 1027.84pt x 545.03625pt>
+[4 <./FigurasUV/nubeind.pdf>]
+<FigurasUV/nubevar.pdf, id=47, 1027.84pt x 545.03625pt>
 File: FigurasUV/nubevar.pdf Graphic file (type pdf)
 
 <use FigurasUV/nubevar.pdf>
-Package pdftex.def Info: FigurasUV/nubevar.pdf used on input line 283.
+Package pdftex.def Info: FigurasUV/nubevar.pdf used on input line 281.
 (pdftex.def)             Requested size: 462.52373pt x 245.26405pt.
 
-Overfull \hbox (32.5191pt too wide) in paragraph at lines 283--284
+Overfull \hbox (32.5191pt too wide) in paragraph at lines 281--282
  [][] 
  []
 
-<FigurasUV/biplot.pdf, id=51, 1027.84pt x 545.03625pt>
+<FigurasUV/biplot.pdf, id=48, 1027.84pt x 545.03625pt>
 File: FigurasUV/biplot.pdf Graphic file (type pdf)
 
 <use FigurasUV/biplot.pdf>
-Package pdftex.def Info: FigurasUV/biplot.pdf used on input line 291.
+Package pdftex.def Info: FigurasUV/biplot.pdf used on input line 289.
 (pdftex.def)             Requested size: 462.52373pt x 245.26405pt.
 
-Overfull \hbox (32.5191pt too wide) in paragraph at lines 291--292
+Overfull \hbox (32.5191pt too wide) in paragraph at lines 289--290
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6 <./FigurasUV/nubevar.pdf>] [7 <./FigurasUV/biplot.pdf>]
-Overfull \hbox (53.71434pt too wide) in paragraph at lines 357--365
+[5 <./FigurasUV/nubevar.pdf>] [6 <./FigurasUV/biplot.pdf>]
+Overfull \hbox (53.71434pt too wide) in paragraph at lines 355--363
  [] 
  []
 
-[8] [9]
-Overfull \hbox (53.68958pt too wide) in paragraph at lines 437--445
+[7] [8]
+Overfull \hbox (53.68958pt too wide) in paragraph at lines 435--443
  [] 
  []
 
 No file "Laboratorio 2".bbl.
-[10] ("Laboratorio 2.aux"
+[9] ("Laboratorio 2.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  6074 strings out of 493334
  83089 string characters out of 3139234
- 166516 words of memory out of 3000000
+ 166515 words of memory out of 3000000
  9459 multiletter control sequences out of 15000+200000
  20440 words of font info for 59 fonts, out of 3000000 for 9000
  1145 hyphenation exceptions out of 8191
- 43i,8n,40p,1228b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,8n,40p,1272b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
 dpi600\ecbx1200.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
 our\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\KEVINSTEVEN\AppData\Local\MiKTeX\
@@ -892,9 +892,9 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmsy7.pfb>
-Output written on "Laboratorio 2.pdf" (10 pages, 207890 bytes).
+Output written on "Laboratorio 2.pdf" (9 pages, 207361 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
+ 395 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
